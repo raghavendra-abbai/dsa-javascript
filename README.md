@@ -11,5 +11,6 @@ This repository contains my JavaScript solutions for Data Structures and Algorit
 -  Product of Array Except Self.
 -  Reverse The String.
 -  Reverse The Vowels OfThe String.
+-  Increase Triplet Subsequece.
 
 Goal: Complete LeetCode 75 and improve my problem-solving skills.
