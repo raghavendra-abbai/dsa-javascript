@@ -2,7 +2,7 @@
 
 This repository contains my JavaScript solutions for Data Structures and Algorithms.
 
-## Progress
+## Progress:
 
 -  Merge Strings Alternately.
 -  Can Place Flowers.
