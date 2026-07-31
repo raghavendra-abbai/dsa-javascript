@@ -14,3 +14,15 @@ This repository contains my JavaScript solutions for Data Structures and Algorit
 -  Increase Triplet Subsequece
 
 Goal: Complete LeetCode 75 and improve my problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
