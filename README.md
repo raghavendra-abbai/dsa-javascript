@@ -25,4 +25,13 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
