@@ -35,6 +35,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,5 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
