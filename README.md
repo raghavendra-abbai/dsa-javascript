@@ -22,6 +22,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -50,4 +51,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
