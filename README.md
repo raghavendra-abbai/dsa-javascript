@@ -20,6 +20,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
@@ -54,6 +55,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2215-find-the-difference-of-two-arrays) |
