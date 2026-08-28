@@ -25,6 +25,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -93,10 +94,12 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
