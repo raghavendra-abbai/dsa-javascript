@@ -46,6 +46,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
@@ -110,10 +111,15 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
