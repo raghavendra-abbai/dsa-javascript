@@ -37,6 +37,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [1732-find-the-highest-altitude](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2352-equal-row-and-column-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +101,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
