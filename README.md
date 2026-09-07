@@ -22,6 +22,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
@@ -43,6 +44,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +88,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
@@ -142,4 +145,12 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
