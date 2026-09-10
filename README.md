@@ -31,6 +31,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
@@ -70,6 +71,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -153,4 +155,20 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
