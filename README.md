@@ -1,6 +1,6 @@
-# JavaScript DSA 
+# Java DSA 
 
-This repository contains my JavaScript solutions for Data Structures and Algorithms.
+This repository contains my Java solutions for Data Structures and Algorithms.
 
 ## Progress:
 
