@@ -55,6 +55,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -67,6 +68,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
 | ------- |
